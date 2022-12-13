@@ -28,6 +28,7 @@ public class hufshfhsrhfshdfkh {
         }
 
         System.out.println(overlap);
+        br.close();
     }
 
     public static void main(String[] args) throws IOException {

@@ -29,6 +29,7 @@ public class part2 {
         }
 
         System.out.println(overlap);
+        br.close();
     }
 
     public static void main(String[] args) throws IOException {

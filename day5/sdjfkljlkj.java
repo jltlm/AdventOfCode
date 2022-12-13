@@ -72,7 +72,7 @@ public class sdjfkljlkj {
             ArrayList<String> stack = stacks.get(i);
             System.out.print(stack.get(stack.size()-1));
         }
-
+        br.close();
 
     }
 

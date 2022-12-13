@@ -36,6 +36,7 @@ public class Bleh {
             psum += priority;
         }
         System.out.println(psum);
+        br.close();
     }
 
     public static void part2(String filename) throws IOException {
@@ -79,6 +80,7 @@ public class Bleh {
             psum += priority;
         }
         System.out.println(psum);
+        br.close();
 
     }
 
